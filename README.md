@@ -1,2 +1,2 @@
-# Quadractic_equation
+# Quadractic calculator
 A quadratic equation calculator
